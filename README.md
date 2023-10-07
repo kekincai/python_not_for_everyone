@@ -1,0 +1,2 @@
+# python_not_for_everyone
+并不是适合所有人的Python教程
